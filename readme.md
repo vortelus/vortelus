@@ -1,10 +1,8 @@
 # Hi 👋! I'm Vortelus, and I'm a Blockchain Expert.
 
-<!-- <div style="width: 80%; margin: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vortelus&show_icons=true&theme=radical&count_private=true" alt="Mauro de Souza's GitHub Stats" style="width: 100%; display: block; margin: auto;" />
-</div> -->
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vortelus&layout=compact&theme=radical&width=800)
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortelus&layout=compact&theme=radical&width=1000" alt="Most Used Languages" />
+</div>
 
 ## 💻 Tech Stack
 
