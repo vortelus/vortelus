@@ -1,8 +1,8 @@
 # Hi 👋! I'm Vortelus, and I'm a Blockchain Expert.
 
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortelus&layout=compact&theme=radical&width=1000" alt="Most Used Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortelus&layout=compact&theme=radical&" alt="Most Used Languages" />
+</p>
 
 ## 💻 Tech Stack
 
