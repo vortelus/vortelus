@@ -1,11 +1,11 @@
-# Hi 👋! I'm [Your Name], and I'm a Blockchain Developer from [Your Location].
+# Hi 👋! I'm Vortelus, and I'm a Blockchain Expert.
 
 <!-- <div style="width: 80%; margin: auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=vortelus&show_icons=true&theme=radical&count_private=true" alt="Mauro de Souza's GitHub Stats" style="width: 100%; display: block; margin: auto;" />
 </div> -->
 
-<div style="width: 80%;margin: auto;align: center; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortelus&layout=compact&theme=radical" alt="Most Used Languages" style="width: 50%; display: block; margin: auto;" />
+<div style="width: 80%; margin: auto; text-align: center; margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortelus&layout=compact&theme=radical" alt="Most Used Languages" style="width: 50%; display: inline-block;" />
 </div>
 
 ## 💻 Tech Stack
@@ -20,8 +20,6 @@
 </p>
 
 ## 📈 GitHub Activity
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=vortelus&theme=react-dark&bg_color=20232a&hide_border=true&line=5BCDEC&color=5BCDEC)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vortelus&theme=radical" alt="GitHub Streak" />
