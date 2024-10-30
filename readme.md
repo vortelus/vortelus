@@ -1,6 +1,6 @@
-# 👋 Hey there! I'm Vortelus – Blockchain Innovator and DeFi Visionary 🚀
+# 👋 Hey there! I'm Vortelus – Blockchain Innovator & Rust Expert 🚀
 
-Passionate about transforming ideas into decentralized solutions. With a deep expertise in blockchain technology, I'm here to help you bring the future of finance, NFTs, and Web3 to life! Let's build something groundbreaking together. 💡✨
+With deep expertise in **Rust** and a passion for decentralized tech, I'm dedicated to building secure, high-performance blockchain solutions. From smart contracts to DeFi protocols, I bring your vision to life with the power and precision of Rust. Let's shape the future of Web3, NFTs, and beyond together! 💡✨
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortelus&layout=compact&theme=radical&langs_count=5" alt="Most Used Languages" style="width: 450px;" />
