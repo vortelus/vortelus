@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Vortelus – Blockchain Innovator & Rust Expert 🚀
+# 👋 Hi! I'm Vortelus – Blockchain Innovator & Rust Expert 🚀
 
 With deep expertise in **Rust** and a passion for decentralized tech, I'm dedicated to building secure, high-performance blockchain solutions. From smart contracts to DeFi protocols, I bring your vision to life with the power and precision of Rust. Let's shape the future of Web3, NFTs, and beyond together! 💡✨
 
