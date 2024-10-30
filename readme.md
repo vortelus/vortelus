@@ -24,7 +24,7 @@
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=vortelus&theme=react-dark&bg_color=20232a&hide_border=true&line=5BCDEC&color=5BCDEC)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vortelus&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
