@@ -5,9 +5,8 @@
 </div> -->
 
 <div style="width: 80%; margin: auto; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortelus&layout=compact&theme=radical" alt="Most Used Languages" style="width: 100%; display: block; margin: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortelus&layout=compact&theme=radical" alt="Most Used Languages" style="width: 80%; display: block; margin: auto;" />
 </div>
-
 
 ## 💻 Tech Stack
 
@@ -19,7 +18,6 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
-
 
 ## 📈 GitHub Activity
 
